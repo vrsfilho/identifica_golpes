@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83955939-f59e-4e73-9948-553e290f5cff)
+
 
 
 # Detector de Golpes
@@ -16,7 +16,7 @@ O Detector de Golpes é uma aplicação completa (frontend + backend) projetada 
 
 ## 🖼️ Screenshots
 
-(Adicione aqui os screenshots da sua aplicação)
+![image](https://github.com/user-attachments/assets/83955939-f59e-4e73-9948-553e290f5cff)
 
 ## 🏗️ Arquitetura
 
