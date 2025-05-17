@@ -1,0 +1,42 @@
+{
+  "analysis_id": "85dae125-e5bd-480c-a3a1-d4fc1d97a20d",
+  "is_fraud": true,
+  "confidence": 1.0,
+  "explanation": "Essa mensagem é muito provavelmente um golpe. Bancos não pedem para você entregar seu cartão e senha para um motoboy, mesmo que digam que ele foi clonado. Entregar essas informações é dar aos criminosos tudo o que eles precisam para usar seu cartão de forma fraudulenta. Desconfie sempre de contatos inesperados, especialmente se eles pedirem informações pessoais ou solicitarem a entrega do seu cartão.",
+  "recommendations": [
+    "Não entregue seu cartão e senha para o motoboy.",
+    "Não responda à mensagem.",
+    "Entre em contato imediatamente com seu banco através dos canais oficiais (telefone no verso do cartão, aplicativo, agência) para verificar a veracidade da informação sobre a clonagem do cartão. Nunca use o número de telefone fornecido na mensagem suspeita.",
+    "Registre um boletim de ocorrência caso tenha fornecido alguma informação."
+  ],
+  "education_links": [
+    {
+      "title": "Golpe de pagamento: saiba o que fazer se receber ligação ...",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/golpe-de-pagamento-saiba-o-que-fazer-se-receber-ligacao-do-banco-para-confirmacao-de-compra/"
+    },
+    {
+      "title": "O banco liga para o cliente? Saiba como reconhecer o golpe ...",
+      "url": "https://blog.genialinvestimentos.com.br/golpe-da-falsa-central/"
+    },
+    {
+      "title": "Novo golpe: ladrões ligam para clientes dizendo que agência ...",
+      "url": "https://g1.globo.com/fantastico/noticia/2024/10/13/novo-golpe-idosos-ladroes-ligam-agencia-bancaria-esta-sob-investigacao-e-pedem-a-transferencia-de-recursos.ghtml"
+    },
+    {
+      "title": "Os golpes virtuais que mais fazem os brasileiros perder dinheiro",
+      "url": "https://g1.globo.com/tecnologia/noticia/2025/05/02/os-golpes-virtuais-que-mais-fazem-os-brasileiros-perder-dinheiro.ghtml"
+    },
+    {
+      "title": "Tudo sobre Golpes",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/golpes/"
+    }
+  ],
+  "educational_text": "Golpes financeiros bancários são tentativas de criminosos para roubar seu dinheiro ou informações financeiras, muitas vezes se passando por instituições financeiras legítimas. Eles usam táticas como e-mails, mensagens de texto (SMS) ou ligações telefônicas que parecem oficiais para enganar você e obter seus dados bancários, senhas ou até mesmo convencê-lo a fazer transferências.\n\nUm golpe comum envolve o envio de um e-mail ou SMS informando sobre uma suposta irregularidade na sua conta ou cartão. O criminoso pede que você clique em um link para \"resolver\" o problema, redirecionando você para uma página falsa que imita o site do banco. Lá, você é solicitado a inserir seus dados pessoais e bancários, que são então roubados.\n\nFique atento! Sinais de alerta incluem: mensagens com erros de ortografia ou gramática, solicitações urgentes para atualizar informações, links suspeitos e remetentes desconhecidos. Bancos nunca pedem senhas ou informações confidenciais por e-mail ou telefone. Desconfie sempre!",
+  "education_tips": [
+    "Dica 1: Nunca clique em links suspeitos recebidos por e-mail ou SMS. Digite o endereço do banco diretamente no navegador.",
+    "Dica 2: Não forneça seus dados bancários ou senhas por telefone, e-mail ou SMS.",
+    "Dica 3: Ative a autenticação de dois fatores em suas contas bancárias.",
+    "Dica 4: Mantenha seu antivírus e sistema operacional sempre atualizados.",
+    "Dica 5: Em caso de dúvida, entre em contato diretamente com seu banco pelos canais oficiais."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "phishing": [
+    "phishing-example.com"
+  ],
+  "malware": [
+    "malware-example.com"
+  ],
+  "scam": [
+    "scam-example.com"
+  ]
+}

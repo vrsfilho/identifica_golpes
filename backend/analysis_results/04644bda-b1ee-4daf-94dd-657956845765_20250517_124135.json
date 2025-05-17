@@ -1,0 +1,19 @@
+{
+  "analysis_id": "04644bda-b1ee-4daf-94dd-657956845765",
+  "is_fraud": false,
+  "confidence": 0.0,
+  "explanation": "Houve um erro durante a análise.",
+  "recommendations": [],
+  "education_links": [
+    {
+      "title": "Os golpes virtuais que mais fazem os brasileiros perder dinheiro",
+      "url": "https://g1.globo.com/tecnologia/noticia/2025/05/02/os-golpes-virtuais-que-mais-fazem-os-brasileiros-perder-dinheiro.ghtml"
+    },
+    {
+      "title": "Tudo sobre Golpes",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/golpes/"
+    }
+  ],
+  "educational_text": "",
+  "education_tips": []
+}

@@ -1,0 +1,42 @@
+{
+  "analysis_id": "3ebba113-590e-4d0c-aebe-f437def21abe",
+  "is_fraud": true,
+  "confidence": 0.9,
+  "explanation": "Essa mensagem é muito suspeita. Golpistas frequentemente se passam por familiares ou amigos com um novo número de telefone e inventam uma emergência para conseguir dinheiro. O pedido urgente para enviar dinheiro para outra pessoa é um grande sinal de alerta. Antes de fazer qualquer coisa, você precisa confirmar se a pessoa que está mandando a mensagem é realmente sua irmã e se ela realmente precisa do dinheiro.",
+  "recommendations": [
+    "Não envie dinheiro para a pessoa que enviou a mensagem.",
+    "Entre em contato com sua irmã pelo número antigo dela ou por outro meio de comunicação que você já utilizava (e-mail, redes sociais) para confirmar se ela realmente mudou de número e precisa do dinheiro.",
+    "Se você não conseguir confirmar a identidade da pessoa, bloqueie o número e denuncie a tentativa de golpe às autoridades competentes (ex: delegacia de polícia especializada em crimes cibernéticos).",
+    "Avise outros familiares e amigos sobre essa tentativa de golpe para que eles também não sejam enganados."
+  ],
+  "education_links": [
+    {
+      "title": "Vítima fez um Pix e caiu em um golpe",
+      "url": "https://www.bcb.gov.br/meubc/faqs/p/vitima-fez-um-pix-e-caiu-em-um-golpe"
+    },
+    {
+      "title": "Fui vítima de um golpe e perdi dinheiro com isso, o que ...",
+      "url": "https://www.jusbrasil.com.br/artigos/fui-vitima-de-um-golpe-e-perdi-dinheiro-com-isso-o-que-devo-fazer/1159398320"
+    },
+    {
+      "title": "O \"golpe do cartão trocado\": as vítimas podem obter ...",
+      "url": "https://www.migalhas.com.br/depeso/370494/o-golpe-do-cartao-trocado"
+    },
+    {
+      "title": "Os golpes virtuais que mais fazem os brasileiros perder dinheiro",
+      "url": "https://g1.globo.com/tecnologia/noticia/2025/05/02/os-golpes-virtuais-que-mais-fazem-os-brasileiros-perder-dinheiro.ghtml"
+    },
+    {
+      "title": "Tudo sobre Golpes",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/golpes/"
+    }
+  ],
+  "educational_text": "Já ouviu falar do golpe do falso familiar? É um golpe que explora o amor e a preocupação por nossos familiares. Criminosos entram em contato por mensagem ou ligação, se passando por um parente (filho, neto, etc.) e inventam uma emergência urgente: problema com carro, doença, sequestro, ou mesmo uma \"oportunidade imperdível\" que requer dinheiro imediato.\n\nO golpe é perigoso porque usam informações online para convencer e a pressão emocional leva a decisões rápidas. Desconfie de mensagens de números desconhecidos pedindo dinheiro, principalmente se a história for dramática e urgente. Atenção redobrada se o \"familiar\" pedir segredo e urgência. Além da emergência, podem oferecer ofertas irrecusáveis que exigem uma ação imediata. Verifique sempre a legitimidade de qualquer pedido ou oferta.",
+  "education_tips": [
+    "Dica 1: Mantenha a calma! Não tome decisões precipitadas sob pressão. Desconfie de ofertas irrecusáveis, mesmo que venham de um suposto familiar.",
+    "Dica 2: Confirme a história! Tente falar diretamente com o familiar envolvido ou outro membro da família para verificar a veracidade da situação.",
+    "Dica 3: Não forneça informações! Evite dar detalhes sobre sua vida familiar ou financeira para estranhos. Proteja seus dados pessoais e nunca compartilhe informações confidenciais em ligações ou mensagens.",
+    "Dica 4: Desconfie de transferências urgentes! Golpistas geralmente pedem para enviar dinheiro rapidamente via PIX, transferência ou boletos. Verifique a autenticidade de qualquer boleto antes de pagar.",
+    "Dica 5: Bloqueie o contato e denuncie! Se suspeitar de um golpe, bloqueie o número e denuncie às autoridades policiais. Mantenha-se sempre informado sobre os golpes mais recentes."
+  ]
+}

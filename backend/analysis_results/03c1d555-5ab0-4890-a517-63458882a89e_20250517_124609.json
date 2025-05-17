@@ -1,0 +1,43 @@
+{
+  "analysis_id": "03c1d555-5ab0-4890-a517-63458882a89e",
+  "is_fraud": true,
+  "confidence": 0.9,
+  "explanation": "Essa mensagem é muito suspeita. Bancos não costumam mandar alguém buscar seus cartões em casa, nem solicitam a entrega de cartões para cancelamento. É um golpe comum onde criminosos se passam por funcionários do banco para roubar seus cartões e usá-los para fazer compras.",
+  "recommendations": [
+    "NÃO entregue seus cartões a ninguém.",
+    "NÃO forneça nenhuma informação pessoal ou bancária.",
+    "Entre em contato IMEDIATAMENTE com o seu banco pelos canais de atendimento OFICIAIS (telefone no cartão, aplicativo ou agência) para confirmar se a solicitação de entrega do cartão é legítima.",
+    "Registre um boletim de ocorrência caso identifique que se trata de um golpe.",
+    "Bloqueie preventivamente seus cartões até confirmar a situação com o banco."
+  ],
+  "education_links": [
+    {
+      "title": "Golpe de pagamento: saiba o que fazer se receber ligação ...",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/golpe-de-pagamento-saiba-o-que-fazer-se-receber-ligacao-do-banco-para-confirmacao-de-compra/"
+    },
+    {
+      "title": "Meu Pix Está Com Mensagem de Fraude, O Que Significa?",
+      "url": "https://www.jusbrasil.com.br/artigos/meu-pix-esta-com-mensagem-de-fraude-o-que-significa/2152527723"
+    },
+    {
+      "title": "Golpe usa mensagem de texto falsa sobre compra no cartão ...",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2023/08/17/golpe-usa-mensagem-de-texto-falsa-sobre-compra-no-cartao-de-credito-no-rs-saiba-como-evitar-a-fraude.ghtml"
+    },
+    {
+      "title": "Os golpes virtuais que mais fazem os brasileiros perder dinheiro",
+      "url": "https://g1.globo.com/tecnologia/noticia/2025/05/02/os-golpes-virtuais-que-mais-fazem-os-brasileiros-perder-dinheiro.ghtml"
+    },
+    {
+      "title": "Tudo sobre Golpes",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/golpes/"
+    }
+  ],
+  "educational_text": "Golpes financeiros bancários são tentativas de criminosos para roubar seu dinheiro ou informações pessoais, se passando por instituições financeiras legítimas. Eles utilizam diversas táticas, como e-mails, SMS, ligações telefônicas, mensagens em redes sociais ou até anúncios online falsos, simulando comunicados urgentes do seu banco ou ofertas irrecusáveis.\n\nGeralmente, o golpista tenta te assustar, alegando contas comprometidas, transações suspeitas ou necessidade urgente de atualização de dados. Para \"resolver\" o problema, pedem que você clique em links falsos (que levam a sites controlados pelos criminosos) ou que forneça dados como senhas, números de cartão, códigos de segurança e até dados pessoais. Eles podem também induzir a realizar transferências para contas fraudulentas. É crucial estar ciente e se educar sobre os tipos de golpes mais comuns.\n\n**Sinais de Alerta:**\n\n*   Mensagens com tom de urgência e ameaça ou ofertas muito vantajosas.\n*   Erros de português e gramática nas mensagens ou formatos visuais estranhos.\n*   Solicitação de dados confidenciais por qualquer canal (e-mail, SMS, telefone, redes sociais).\n*   Links que parecem estranhos ou diferentes do site oficial do seu banco.\n*   Ligações de números desconhecidos ou de supostos atendentes que não conseguem confirmar sua identidade adequadamente.",
+  "education_tips": [
+    "**Nunca clique em links suspeitos** recebidos por e-mail, SMS ou redes sociais. Digite o endereço do seu banco diretamente no navegador.",
+    "**Desconfie de mensagens com tom de urgência ou ofertas irrecusáveis.** Bancos não solicitam dados confidenciais por canais não seguros.",
+    "**Ative a autenticação de dois fatores** sempre que possível e utilize senhas fortes e únicas.",
+    "**Mantenha seus softwares e aplicativos atualizados,** incluindo o antivírus do seu computador ou celular.",
+    "**Em caso de dúvida, entre em contato diretamente com seu banco** através dos canais oficiais de atendimento e monitore regularmente suas contas e extratos."
+  ]
+}

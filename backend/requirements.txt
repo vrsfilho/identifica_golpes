@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+google-cloud-aiplatform # Pode ser necessário dependendo da sua configuração do ADK
+pydantic # Já é uma dependência do FastAPI, mas bom listar explicitamente
+python-dotenv # Para carregar variáveis de ambiente (API Key)
+aiohttp

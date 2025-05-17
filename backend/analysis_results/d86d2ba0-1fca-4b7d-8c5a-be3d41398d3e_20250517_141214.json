@@ -1,0 +1,35 @@
+{
+  "analysis_id": "d86d2ba0-1fca-4b7d-8c5a-be3d41398d3e",
+  "is_fraud": true,
+  "confidence": 0.9,
+  "explanation": "Essa mensagem parece ser uma tentativa de golpe. Ela tenta te assustar com uma compra não reconhecida e te induz a clicar em um número para \"resolver\" o problema. Bancos legítimos geralmente não pedem para você clicar em links ou números em mensagens para confirmar ou cancelar transações. Eles preferem que você entre em contato diretamente pelos canais oficiais.",
+  "recommendations": [
+    "*   **Não clique no número informado na mensagem.** Isso pode te levar a uma página falsa projetada para roubar seus dados ou instalar vírus no seu celular.\n*   **Não responda à mensagem.** Isso confirmaria ao golpista que seu número está ativo.\n*   **Entre em contato diretamente com o seu banco pelos canais oficiais (telefone, aplicativo ou agência).** Explique a situação e pergunte se houve mesmo alguma movimentação suspeita na sua conta.\n*   **Ignore a mensagem.** Após entrar em contato com o banco, apague a mensagem para evitar clicar nela por engano no futuro.\n*   **Nunca forneça seus dados pessoais (senha, número do cartão, código de segurança) por mensagem ou ligação telefônica.** Bancos legítimos nunca pedem essas informações dessa forma."
+  ],
+  "education_links": [
+    {
+      "title": "Golpe de pagamento: saiba o que fazer se receber ligação ...",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/golpe-de-pagamento-saiba-o-que-fazer-se-receber-ligacao-do-banco-para-confirmacao-de-compra/"
+    },
+    {
+      "title": "O banco liga para o cliente? Saiba como reconhecer o golpe ...",
+      "url": "https://blog.genialinvestimentos.com.br/golpe-da-falsa-central/"
+    },
+    {
+      "title": "Os golpes virtuais que mais fazem os brasileiros perder dinheiro",
+      "url": "https://g1.globo.com/tecnologia/noticia/2025/05/02/os-golpes-virtuais-que-mais-fazem-os-brasileiros-perder-dinheiro.ghtml"
+    },
+    {
+      "title": "Tudo sobre Golpes",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/golpes/"
+    }
+  ],
+  "educational_text": "Golpes financeiros bancários são tentativas de criminosos para roubar seu dinheiro ou informações financeiras, muitas vezes se passando por instituições financeiras legítimas. Eles usam táticas como e-mails, mensagens de texto (SMS) ou ligações telefônicas que parecem oficiais para enganar você e obter seus dados bancários, senhas ou até mesmo convencê-lo a fazer transferências.\n\nUm golpe comum envolve o envio de um e-mail ou SMS informando sobre uma suposta irregularidade na sua conta ou cartão. O criminoso pede que você clique em um link para \"resolver\" o problema, redirecionando você para uma página falsa que imita o site do banco. Lá, você é solicitado a inserir seus dados pessoais e bancários, que são então roubados.\n\nFique atento! Sinais de alerta incluem: mensagens com erros de ortografia ou gramática, solicitações urgentes para atualizar informações, links suspeitos e remetentes desconhecidos. Bancos nunca pedem senhas ou informações confidenciais por e-mail ou telefone. Desconfie sempre!",
+  "education_tips": [
+    "Dica 1: Nunca clique em links suspeitos recebidos por e-mail ou SMS. Digite o endereço do banco diretamente no navegador.",
+    "Dica 2: Não forneça seus dados bancários ou senhas por telefone, e-mail ou SMS.",
+    "Dica 3: Ative a autenticação de dois fatores em suas contas bancárias.",
+    "Dica 4: Mantenha seu antivírus e sistema operacional sempre atualizados.",
+    "Dica 5: Em caso de dúvida, entre em contato diretamente com seu banco pelos canais oficiais."
+  ]
+}
