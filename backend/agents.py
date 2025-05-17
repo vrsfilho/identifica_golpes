@@ -19,7 +19,7 @@ from google.generativeai import configure, GenerativeModel, types
 
 # Para este exemplo, vamos configurar diretamente (NÃO FAÇA ISSO EM PRODUÇÃO)
 # Substitua 'YOUR_GOOGLE_API_KEY' pela sua chave real
-configure(api_key="AIzaSyC4BQMgBMsXPaSt2PwDBQCqJFMfCtCzOok")
+configure(api_key="YOUR_GOOGLE_API_KEY")
 
 # Função segura para imprimir mensagens
 def safe_print(message, *args):
