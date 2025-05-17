@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/83955939-f59e-4e73-9948-553e290f5cff)
+
+
 # Detector de Golpes
 
 Sistema inteligente que utiliza IA para analisar mensagens e identificar possíveis tentativas de golpes financeiros, fornecendo alertas e orientações educativas para o usuário.
